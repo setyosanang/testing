@@ -1,0 +1,35 @@
+[
+  {
+    "id": "galeri-001",
+    "judul": "Praktikum Analisis Pangan — Minggu 1 Juni 2025",
+    "kategori": "artikel",
+    "sub": "galeri-anak-ppa",
+    "penulis": "Admin HIMAGRIND",
+    "tanggal": "2025-06-07",
+    "thumbnail": "assets/img/galeri/galeri-001/cover.jpg",
+    "ringkasan": "Momen-momen dari praktikum analisis pangan angkatan 2023. Senyum di balik masker dan sarung tangan.",
+    "foto": [
+      "assets/img/galeri/galeri-001/foto-1.jpg",
+      "assets/img/galeri/galeri-001/foto-2.jpg",
+      "assets/img/galeri/galeri-001/foto-3.jpg",
+      "assets/img/galeri/galeri-001/foto-4.jpg"
+    ],
+    "file": "content/artikel/galeri-anak-ppa/praktikum-analisis-pangan-juni-2025.html"
+  },
+  {
+    "id": "galeri-002",
+    "judul": "Kunjungan Industri ke PT Indofood — Mei 2025",
+    "kategori": "artikel",
+    "sub": "galeri-anak-ppa",
+    "penulis": "Admin HIMAGRIND",
+    "tanggal": "2025-05-31",
+    "thumbnail": "assets/img/galeri/galeri-002/cover.jpg",
+    "ringkasan": "Dokumentasi kunjungan industri angkatan 2022 ke fasilitas produksi PT Indofood di Cibitung.",
+    "foto": [
+      "assets/img/galeri/galeri-002/foto-1.jpg",
+      "assets/img/galeri/galeri-002/foto-2.jpg",
+      "assets/img/galeri/galeri-002/foto-3.jpg"
+    ],
+    "file": "content/artikel/galeri-anak-ppa/kunjungan-industri-indofood.html"
+  }
+]

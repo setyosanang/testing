@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AgrindPress — Portal HIMAGRIND</title>
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <div id="navbar"></div>
+
+  <!-- HERO -->
+  <div id="hero"></div>
+
+  <!-- KONTEN UTAMA -->
+  <main class="container">
+
+    <!-- Searchbox -->
+    <div class="seksi" style="padding-bottom:0; border-bottom:none;">
+      <div id="searchbox"></div>
+    </div>
+
+    <!-- Terbaru -->
+    <section class="seksi">
+      <div class="seksi-header">
+        <h2 class="seksi-judul">Terbaru</h2>
+      </div>
+      <div id="list-terbaru"><p class="loading">Memuat...</p></div>
+    </section>
+
+    <!-- Informasi -->
+    <section class="seksi">
+      <div class="seksi-header">
+        <h2 class="seksi-judul">Informasi</h2>
+        <a href="pages/kategori.html?kategori=informasi" class="seksi-more">Lihat semua →</a>
+      </div>
+      <div id="list-informasi"><p class="loading">Memuat...</p></div>
+    </section>
+
+    <!-- Artikel -->
+    <section class="seksi">
+      <div class="seksi-header">
+        <h2 class="seksi-judul">Artikel</h2>
+        <a href="pages/kategori.html?kategori=artikel" class="seksi-more">Lihat semua →</a>
+      </div>
+      <div id="list-artikel"><p class="loading">Memuat...</p></div>
+    </section>
+
+    <!-- Galeri Anak PPA -->
+    <section class="seksi">
+      <div class="seksi-header">
+        <h2 class="seksi-judul">Galeri Anak PPA</h2>
+        <a href="pages/kategori.html?kategori=artikel&sub=galeri-anak-ppa" class="seksi-more">Lihat semua →</a>
+      </div>
+      <div id="list-galeri"><p class="loading">Memuat...</p></div>
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <div id="footer"></div>
+
+  <script type="module" src="app/modules/beranda.js"></script>
+</body>
+</html>

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "opini-001",
+    "judul": "Potensi Fermentasi Lokal dalam Industri Pangan Modern",
+    "kategori": "artikel",
+    "sub": "opini",
+    "penulis": "Dika Rahmawati",
+    "tanggal": "2025-06-01",
+    "estimasi_baca": 4,
+    "thumbnail": "assets/img/thumbnails/opini-001.jpg",
+    "ringkasan": "Fermentasi bukan sekadar tradisi. Di balik tempe dan tape tersimpan potensi besar yang belum sepenuhnya disentuh oleh industri pangan modern Indonesia.",
+    "file": "content/artikel/opini/potensi-fermentasi-lokal.html",
+    "tags": ["fermentasi", "pangan", "industri"]
+  },
+  {
+    "id": "opini-002",
+    "judul": "Ketika Plastik Kemasan Menjadi Masalah Kita Bersama",
+    "kategori": "artikel",
+    "sub": "opini",
+    "penulis": "Rizal Maulana",
+    "tanggal": "2025-05-28",
+    "estimasi_baca": 3,
+    "thumbnail": "assets/img/thumbnails/opini-002.jpg",
+    "ringkasan": "Setiap produk yang kita beli meninggalkan jejak. Industri agroindustri perlu mengambil tanggung jawab lebih besar dalam persoalan kemasan ramah lingkungan.",
+    "file": "content/artikel/opini/plastik-kemasan.html",
+    "tags": ["kemasan", "lingkungan", "agroindustri"]
+  },
+  {
+    "id": "cerpen-001",
+    "judul": "Satu Pagi di Laboratorium",
+    "kategori": "artikel",
+    "sub": "cerpen",
+    "penulis": "Salma Aulia",
+    "tanggal": "2025-06-03",
+    "estimasi_baca": 7,
+    "thumbnail": "assets/img/thumbnails/cerpen-001.jpg",
+    "ringkasan": "Bau alkohol dan suara centrifuge menjadi latar belakang kisah pertemuan dua mahasiswa yang sama-sama kehilangan arah di semester akhir.",
+    "file": "content/artikel/cerpen/satu-pagi-di-laboratorium.html",
+    "tags": ["fiksi", "kampus", "cerpen"]
+  },
+  {
+    "id": "pengin-001",
+    "judul": "Jujur Saja, Saya Tidak Paham Neraca Massa",
+    "kategori": "artikel",
+    "sub": "pengin-cerita",
+    "penulis": "Anonim",
+    "tanggal": "2025-05-20",
+    "estimasi_baca": 2,
+    "thumbnail": "assets/img/thumbnails/pengin-001.jpg",
+    "ringkasan": "Pengakuan polos dari mahasiswa semester tiga yang hampir menyerah di mata kuliah yang katanya fondasi dari segalanya.",
+    "file": "content/artikel/pengin-cerita/tidak-paham-neraca-massa.html",
+    "tags": ["curhat", "akademik", "jujur"]
+  },
+  {
+    "id": "info-001",
+    "judul": "Jadwal Pengumpulan Laporan PKL Semester Genap 2024/2025",
+    "kategori": "informasi",
+    "sub": "perkuliahan",
+    "penulis": "Admin HIMAGRIND",
+    "tanggal": "2025-06-05",
+    "estimasi_baca": 2,
+    "thumbnail": "assets/img/thumbnails/info-001.jpg",
+    "ringkasan": "Batas akhir pengumpulan laporan PKL semester genap 2024/2025 adalah 20 Juni 2025. Berikut ketentuan format dan alur pengumpulannya.",
+    "file": "content/informasi/perkuliahan/jadwal-pkl-2025.html",
+    "tags": ["pkl", "akademik", "deadline"]
+  },
+  {
+    "id": "info-002",
+    "judul": "HIMAGRIND Buka Pendaftaran Anggota Baru Divisi Jurnalistik",
+    "kategori": "informasi",
+    "sub": "organisasi",
+    "penulis": "Admin HIMAGRIND",
+    "tanggal": "2025-06-08",
+    "estimasi_baca": 2,
+    "thumbnail": "assets/img/thumbnails/info-002.jpg",
+    "ringkasan": "Divisi Jurnalistik HIMAGRIND membuka pendaftaran untuk mahasiswa PPA semester 2 ke atas. Tidak perlu pengalaman menulis, yang penting mau belajar.",
+    "file": "content/informasi/organisasi/rekrutmen-jurnalistik.html",
+    "tags": ["organisasi", "rekrutmen", "jurnalistik"]
+  }
+]
