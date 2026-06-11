@@ -80,7 +80,7 @@ a:hover { color: var(--aksen); }
 .navbar-nama {
   font-family: var(--font-display);
   font-size: 1.2rem;
-  color: var(--putih);
+  color: var(--teks);
   font-weight: 700;
   letter-spacing: 0.5px;
 }
@@ -103,7 +103,7 @@ a:hover { color: var(--aksen); }
   transition: color var(--transisi), background var(--transisi);
 }
 .nav-link:hover,
-.nav-item.aktif .nav-link { color: var(--putih); }
+.nav-item.aktif .nav-link { color: var(--aksen); }
 .nav-item.aktif > .nav-link { border-bottom: 2px solid var(--aksen); }
 .arrow { font-size: 0.7rem; transition: transform var(--transisi); }
 .nav-item.show .arrow { transform: rotate(180deg); }
@@ -114,7 +114,7 @@ a:hover { color: var(--aksen); }
   position: absolute;
   top: calc(100% + 4px);
   left: 0;
-  background: #161f2e;
+  background: #ffffff;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   min-width: 180px;
@@ -177,7 +177,7 @@ a:hover { color: var(--aksen); }
 .hero-judul {
   font-family: var(--font-display);
   font-size: clamp(1.8rem, 4vw, 3rem);
-  color: var(--putih);
+  color: var(--teks);
   line-height: 1.25;
   margin-bottom: 14px;
 }
@@ -204,7 +204,7 @@ a:hover { color: var(--aksen); }
 .seksi-judul {
   font-family: var(--font-display);
   font-size: 1.3rem;
-  color: var(--putih);
+  color: var(--teks);
   /* Signature element: garis aksen kiri */
   border-left: 3px solid var(--aksen);
   padding-left: 12px;
@@ -248,7 +248,7 @@ a:hover { color: var(--aksen); }
   font-family: var(--font-display);
   font-size: 1.1rem;
   line-height: 1.4;
-  color: var(--putih);
+  color: var(--teks);
 }
 .card-judul a { color: inherit; }
 .card-judul a:hover { color: var(--aksen); }
@@ -326,7 +326,7 @@ a:hover { color: var(--aksen); }
 .artikel-judul {
   font-family: var(--font-display);
   font-size: clamp(1.6rem, 3.5vw, 2.4rem);
-  color: var(--putih);
+  color: var(--teks);
   line-height: 1.25;
   margin-bottom: 20px;
 }
@@ -362,13 +362,13 @@ a:hover { color: var(--aksen); }
 .artikel-konten h2 {
   font-family: var(--font-display);
   font-size: 1.3rem;
-  color: var(--putih);
+  color: var(--teks);
   margin: 32px 0 12px;
 }
 .artikel-konten h3 {
   font-size: 1.1rem;
   font-weight: 600;
-  color: var(--putih);
+  color: var(--teks);
   margin: 24px 0 8px;
 }
 .artikel-konten blockquote {
@@ -394,7 +394,7 @@ a:hover { color: var(--aksen); }
   font-family: var(--font-display);
   font-size: 1.1rem;
   color: var(--putih);
-  border-left: 3px solid var(--aksen);
+  border-left: 3px solid var(--teks);
   padding-left: 12px;
   margin-bottom: 20px;
 }
@@ -571,7 +571,7 @@ a:hover { color: var(--aksen); }
 .footer-nama {
   font-family: var(--font-display);
   font-size: 1.1rem;
-  color: var(--putih);
+  color: var(--teks);
   font-weight: 700;
 }
 .footer-tagline { font-size: 0.8rem; color: var(--teks-dim); margin-top: 4px; }
@@ -625,7 +625,7 @@ a:hover { color: var(--aksen); }
     box-shadow: none;
     border: none;
     border-radius: 0;
-    background: #0f1623;
+    background: #ffffff;
     padding: 0;
   }
   .dropdown-item { padding-left: 36px; }
