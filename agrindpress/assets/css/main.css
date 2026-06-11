@@ -8,16 +8,16 @@
 
 /* --- TOKEN SISTEM --- */
 :root {
-  --bg:          #0a0a0a;
-  --bg-card:     #111827;
-  --bg-nav:      #000000;
-  --border:      #1f2937;
-  --border-soft: #2a2a2a;
-  --teks:        #e5e7eb;
-  --teks-muted:  #9ca3af;
+  --bg:          #f8faf7;
+  --bg-card:     #ffffff;
+  --bg-nav:      #ffffff;
+  --border:      #dfe6dc;
+  --border-soft: #eef2ee;
+  --teks:        #111827;
+  --teks-muted:  #4b5563;
   --teks-dim:    #6b7280;
-  --aksen:       #84cc16;       /* lime-green — warna agroindustri */
-  --aksen-hover: #a3e635;
+  --aksen:       #4d7c0f;
+  --aksen-hover: #65a30d;
   --putih:       #ffffff;
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body:    'Inter', system-ui, sans-serif;
